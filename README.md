@@ -14,7 +14,6 @@ By the end of this guide, you'll have built a fully functional e-commerce platfo
 - [Results and Discussion](#results-and-discussion)
 - [Conclusion and Future Scope](#conclusion-and-future-scope)
 - [References](#references)
-
 ---
 
 
@@ -149,20 +148,3 @@ The **Spring Boot 3** backend manages the business logic, providing APIs for use
 
 
 ---
-
-## 5. Conclusion and Future Scope
-
-### 5.1 Conclusion
-VelvetCart provides a scalable, secure, and customizable e-commerce platform using **Spring Boot 3**, **Angular 18**, **PostgreSQL**, and **Tailwind CSS**. The project demonstrates how to build an efficient, full-stack application for real-world e-commerce use.
-
-### 5.2 Future Scope
-- **Payment Gateway Integration**: Integrating popular payment services like **Stripe** or **PayPal**.
-- **Advanced Features**: Adding recommendation engines, user reviews, and more.
-- **SEO Optimization**: Improving SEO features for better product discoverability.
-
----
-
-## References
-- **Spring Boot Documentation**: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
-- **Angular Documentation**: [https://angular.io/](https://angular.io/)
-- **Kinde Authentication**: [https://kinde.com/](https://kinde.com/)
